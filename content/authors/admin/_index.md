@@ -14,8 +14,8 @@ role: Postdoc in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Groningen
-  url: https://www.rug.nl/
+- name: ETH Zürich
+  url: https://www.ethz.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests evolve around the interplay between social interactions networks and mental health.
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:timon.elmer {at} gmail {dot} com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/timonelmer
@@ -68,14 +68,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "t.elmer@rug.nl"
+email: "timon.elmer {at} gmail {dot} com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi. I'm Timon. You are on my academic website. There <a href="https://media.giphy.com/media/hrBwvnvKIxA52/giphy.gif"> could</a> be websites about other interets of mine too, but for now lets talk academics: I am currently a <i>postdoctoral researcher at the University of Groningen</i>, where I conduct <b>reserach on the interplay between people's social interactions and their mental health</b>.
- Before that, I was a postdoc and PhD student at the <a href="https://sn.ethz.ch/">social networks lab</a> of the ETH Zürich. At some point I studied Psychology at the University of Basel and University of Zürich.
+Hi. I'm Timon. You are on my academic website. There <a href="https://media.giphy.com/media/hrBwvnvKIxA52/giphy.gif"> could</a> be websites about other interets of mine too, but for now lets talk academics: I am currently a postdoctoral researcher at the <a href="https://sn.ethz.ch/">social networks lab</a> of the ETH Zürich, where I conduct <b>reserach on the interplay between social networks dynamics and people's mental health</b>.
+ Before that, I was a postdoctoral researcher at the <a href="https://www.laurabringmannlab.com/">Laura Bringmann lab/a> of the University of Groningen. At some point I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich.
     </p>
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
