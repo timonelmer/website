@@ -75,7 +75,7 @@ highlight_name: true
 ---
 
 Hi. I'm Timon. You are on my academic website. There <a href="https://media.giphy.com/media/hrBwvnvKIxA52/giphy.gif"> could</a> be websites about other interets of mine too, but for now lets talk academics: I am currently a postdoctoral researcher at the <a href="https://sn.ethz.ch/">social networks lab</a> of the ETH Zürich, where I conduct <b>reserach on the interplay between social networks dynamics and people's mental health</b>.
- Before that, I was a postdoctoral researcher at the <a href="https://www.laurabringmannlab.com/">Laura Bringmann lab/a> of the University of Groningen. At some point I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich.
+ Before that, I was a postdoctoral researcher at the <a href="https://www.laurabringmannlab.com/">Laura Bringmann lab</a> of the University of Groningen. At some point I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich.
     </p>
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
