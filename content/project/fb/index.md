@@ -9,7 +9,7 @@ categories: []
 date: 2021-03-31T18:09:13+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "www.google.com"
+external_link: "http://localhost:1313/project/fb/blank.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,6 +39,6 @@ url_video: "https://www.youtube.com/watch?v=Bec-al9kds8"
 slides: ""
 ---
 
-https://www.youtube.com/watch?v=Bec-al9kds8 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bec-al9kds8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
