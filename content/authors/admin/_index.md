@@ -1,6 +1,6 @@
 ---
 # with the help of https://twitter.com/dsquintana/status/1310715433654382599
-
+# also see https://zenn.dev/meihei/articles/32bb275f71e938 for troubleshoot
 
 # Display name
 title: Timon Elmer
@@ -24,6 +24,7 @@ bio: My research interests evolve around the interplay between social interactio
 interests:
 - Social Interaction Dynamics
 - Mental Health
+- Longitudinal Social Network Analysis
 - Intesive Longitudinal Data Modeling
 
 # Education to show in About widget
