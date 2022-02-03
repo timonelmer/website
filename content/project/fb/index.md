@@ -9,7 +9,7 @@ categories: []
 date: 2021-03-31T18:09:13+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://localhost:1313/project/fb/blank.html"
+external_link: "https://vimeo.com/673170664"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
