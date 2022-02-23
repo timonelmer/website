@@ -6,10 +6,10 @@ summary: "The evolution of online (facebook) and offline friendship networks in 
 authors: [Timon Elmer]
 tags: [Social Network Dynamics]
 categories: []
-date: 2021-03-31T18:09:13+01:00
+date: "2021-03-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://vimeo.com/673170664"
+external_link: "https://timonelmer.netlify.app/project/fb/blank.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,7 +29,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=Bec-al9kds8"
+url_video: "https://vimeo.com/673170664"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
