@@ -57,6 +57,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/timonelmer
+- icon: orcid
+  icon_pack: fab
+  link: http://orcid.org/0000-0003-4354-4457 
+- icon: osf
+  icon_pack: fas
+  link: https://osf.io/nhfvb/ 
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
