@@ -85,7 +85,7 @@ Hi. I'm Timon. You are on my academic website. There <a href="https://media.giph
 
 <b>(a) develop measurement and modeling methods to study social interaction dynamics
 
-(b) better understand the dynamics between social networks and mental health in order to develop effective psychosocial interventions</b>.
+(b) better understand the dynamics between social networks and mental health in order to develop effective psychosocial interventions</b>.<a rel="me" href="https://home.social/@timonelmer"></a>
 
  <!-- Before returning to ETH Zürich, I was a postdoctoral researcher at the <a href="https://www.laurabringmannlab.com/">Laura Bringmann lab</a> of the University of Groningen. At some point, I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich. 
     </p>--> 
