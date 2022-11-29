@@ -81,11 +81,15 @@ email: "timon.elmer {at} gmail {dot} com"
 highlight_name: true
 ---
 
-Hi. I'm Timon. You are on my academic website. There <a href="https://media.giphy.com/media/hrBwvnvKIxA52/giphy.gif"> could</a> be websites about other interets of mine too, but for now lets talk academics: I am currently a postdoctoral researcher at the <a href="https://sn.ethz.ch/">Social Networks lab</a> of the ETH Zürich. In my research I aim to  
+Hi. I'm Timon. I am a postdoc at the <a href="https://sn.ethz.ch/">Social Networks lab</a> of ETH Zürich. My research focuses on the development and application of <b>methods to study social interactions dynamics </b>in daily life with the aim to understand how these contribute to <b>mental health</b>. 
+
+Previously, I was a postdoc at the <a href="https://www.laurabringmannlab.com/">Laura Bringmann lab</a> of the University of Groningen (Netherlands). At some point, I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich. 
+
+<!-- Hi. I'm Timon. You are on my academic website. There <a href="https://media.giphy.com/media/hrBwvnvKIxA52/giphy.gif"> could</a> be websites about other interets of mine too, but for now lets talk academics: I am currently a postdoctoral researcher at the <a href="https://sn.ethz.ch/">Social Networks lab</a> of the ETH Zürich. In my research I aim to  
 
 <b>(a) develop measurement and modeling methods to study social interaction dynamics
 
-(b) better understand the dynamics between social networks and mental health in order to develop effective psychosocial interventions</b>.<a rel="me" href="https://home.social/@timonelmer"></a>
+(b) better understand the dynamics between social networks and mental health in order to develop effective psychosocial interventions</b>.<a rel="me" href="https://home.social/@timonelmer"></a> -->
 
  <!-- Before returning to ETH Zürich, I was a postdoctoral researcher at the <a href="https://www.laurabringmannlab.com/">Laura Bringmann lab</a> of the University of Groningen. At some point, I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich. 
     </p>--> 
