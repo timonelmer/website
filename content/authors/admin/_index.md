@@ -14,8 +14,8 @@ role: Postdoc in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ETH Zürich
-  url: https://www.ethz.ch/
+- name: University of Zürich
+  url: https://www.uzh.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests evolve around the interplay between social interactions networks and mental health.
@@ -83,7 +83,7 @@ highlight_name: true
 
 Hi. I'm Timon. I am a senior postdoc and <a href="https://www.snf.ch/en/N18L3oGWomTSSGkF/funding/careers/ambizione">SNSF Ambizione fellow</a> at the <a href="https://www.psychology.uzh.ch/en.html">Department of Psychology</a> of the University of Zürich. My research focuses on the development and application of <b>methods to study social interactions dynamics </b>in daily life with the aim to understand how these contribute to <b>mental health</b>. 
 
-Previously, I was a postdoc at the <a href="https://www.laurabringmannlab.com/">Laura Bringmann lab</a> of the University of Groningen (Netherlands). At some point, I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich. 
+Previously, I was a postdoc at the University of Groningen (Netherlands) and ETH Zürich (Switzerland). At some point, I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich. 
 
 <!-- Hi. I'm Timon. You are on my academic website. There <a href="https://media.giphy.com/media/hrBwvnvKIxA52/giphy.gif"> could</a> be websites about other interets of mine too, but for now lets talk academics: I am currently a postdoctoral researcher at the <a href="https://sn.ethz.ch/">Social Networks lab</a> of the ETH Zürich. In my research I aim to  
 
