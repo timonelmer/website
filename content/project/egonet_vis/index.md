@@ -2,7 +2,7 @@
 title: Egonetwork and affect dynamics
 summary: "Visualization of social interaction and affect reports collected with event-contingent ESM"
 authors: [Timon Elmer]
-tags: [Social Network Dynamics]
+tags: [Social Interaction Dynamics]
 date: "2021-07-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Social Network Dynamics
-    tag: Social Network Dynamics
+  - name: Social Interaction Dynamics
+    tag: Social Interaction Dynamics
   - name: Mental Health
     tag: Mental Health
   - name: Statistical Modeling

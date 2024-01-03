@@ -4,7 +4,7 @@
 title: "Online and offline friendships dynamics"
 summary: "The evolution of online (facebook) and offline friendship networks in an emerging student community"
 authors: [Timon Elmer]
-tags: [Social Network Dynamics]
+tags: [Social Interaction Dynamics]
 categories: []
 date: "2021-03-12T00:00:00Z"
 
