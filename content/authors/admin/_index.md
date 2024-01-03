@@ -22,9 +22,10 @@ bio: My research interests evolve around the interplay between social interactio
 
 # Interests to show in About widget
 interests:
+- Digital Communication
 - Social Interaction Dynamics
-- Mental Health
-- Longitudinal Social Network Analysis
+- Psychological Well-Being
+# - Longitudinal Social Network Analysis
 - Intesive Longitudinal Data Modeling
 
 # Education to show in About widget
