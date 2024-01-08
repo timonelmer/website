@@ -39,3 +39,5 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+<!-- see https://bootstrap.hugoblox.com/content/publications/ for instructions  -->

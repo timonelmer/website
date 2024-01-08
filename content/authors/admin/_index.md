@@ -26,7 +26,7 @@ interests:
 - Social Interaction Dynamics
 - Psychological Well-Being
 # - Longitudinal Social Network Analysis
-- Intesive Longitudinal Data Modeling
+- Intensive Longitudinal Data Modeling
 
 # Education to show in About widget
 education:
@@ -35,7 +35,7 @@ education:
     institution: ETH Zürich
     year: 2019
   - course: M.Sc. in Psychology
-    institution: Unversity of Zürich
+    institution: University of Zürich (UZH)
     year: 2015
   - course: B.Sc. in Psychology
     institution: University of Basel
@@ -85,7 +85,7 @@ highlight_name: true
 Hi. I'm Timon. I am a postdoc and <a href="https://www.snf.ch/en/N18L3oGWomTSSGkF/funding/careers/ambizione">SNSF Ambizione fellow</a> at the <a href="https://www.psychology.uzh.ch/en.html">Department of Psychology</a> of the University of Zürich. My research focuses on the development and application of methods to study <b>online and offline social interactions dynamics </b>in daily life with the aim to understand how these contribute to <b>psychological well-being</b>.
 <!-- My research focuses on the development and application of <b>methods to study social interactions dynamics </b>in daily life with the aim to understand how these contribute to <b>mental health</b>.  -->
 
-Previously, I was a postdoc at the University of Groningen (Netherlands) and ETH Zürich (Switzerland). At some point, I studied Psychology at the University of Basel and University of Zürich and received a PhD from the ETH Zürich. 
+Previously, I was a postdoc at the University of Groningen (Netherlands) and ETH Zürich (Switzerland). I studied Psychology at the University of Basel (BSc) and University of Zürich (MSc) and received a PhD from the ETH Zürich. 
 
 <!-- Hi. I'm Timon. You are on my academic website. There <a href="https://media.giphy.com/media/hrBwvnvKIxA52/giphy.gif"> could</a> be websites about other interets of mine too, but for now lets talk academics: I am currently a postdoctoral researcher at the <a href="https://sn.ethz.ch/">Social Networks lab</a> of the ETH Zürich. In my research I aim to  
 
