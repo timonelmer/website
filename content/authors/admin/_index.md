@@ -82,7 +82,7 @@ email: "timon.elmer {at} gmail {dot} com"
 highlight_name: true
 ---
 
-Hi. I'm Timon. I am a postdoc and <a href="https://www.snf.ch/en/N18L3oGWomTSSGkF/funding/careers/ambizione">SNSF Ambizione fellow</a> at the <a href="https://www.psychology.uzh.ch/en.html">Department of Psychology</a> of the University of Zürich. My research focuses on the development and application of methods to study <b>online and offline social interactions dynamics </b>in daily life with the aim to understand how these contribute to <b>psychological well-being</b>.
+Hi. I'm Timon. I am a postdoc and <a href="https://www.snf.ch/en/N18L3oGWomTSSGkF/funding/careers/ambizione">SNSF Ambizione fellow</a> at the <a href="https://www.psychology.uzh.ch/en/areas/sob/angsoz/team.html">Applied Social and Health Psychology lab</a> of the University of Zürich. My research focuses on the development and application of methods to study <b>online and offline social interactions dynamics </b>in daily life with the aim to understand how these contribute to <b>psychological well-being</b>.
 <!-- My research focuses on the development and application of <b>methods to study social interactions dynamics </b>in daily life with the aim to understand how these contribute to <b>mental health</b>.  -->
 
 Previously, I was a postdoc at the University of Groningen (Netherlands) and ETH Zürich (Switzerland). I studied Psychology at the University of Basel (BSc) and University of Zürich (MSc) and received a PhD from the ETH Zürich. 
