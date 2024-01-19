@@ -1,24 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A review of approaches and models in psychopathology conceptualization research
+title: Feedback About a Person’s Social Context - Personal Networks and Daily Social Interactions
 subtitle: ''
 summary: ''
 authors:
-- Nicholas R. Eaton
-- Laura F. Bringmann
+- Marie Stadel
+- Gert Stulp
+- Anna M. Langener 
 - Timon Elmer
-- Eiko I. Fried
-- Miriam K. Forbes 
-- Ashley L. Greene
-- Robert F. Krueger
-- Roman Kotov
-- Patrick D. McGorry
-- Cristina Mei 
-- Monika A. Waszczuk
+- Marijtje A. J. Van Duijn
+- Laura F. Bringmann
 tags: []
 categories: []
-date: '2023-08-08'
+date: '2023-08-11'
 lastmod: 2022-01-03T21:47:22+01:00
 featured: false
 draft: false
@@ -41,9 +36,9 @@ publishDate: '2024-01-19T08:14:28.749847Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Reviews Psychology*'
-doi: 10.1038/s44159-023-00218-4
+publication: '*dministration and Policy in Mental Health and Mental Health Services Research*'
+doi: 10.1007/s10488-023-01293-8
 links:
 - name: URL
-  url: https://www.nature.com/articles/s44159-023-00218-4
+  url: https://link.springer.com/10.1007/s10488-023-01293-8
 ---

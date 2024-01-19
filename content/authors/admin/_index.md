@@ -18,7 +18,7 @@ organizations:
   url: https://www.uzh.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests evolve around the interplay between social interactions networks and mental health.
+bio: #My research interests evolve around the interplay between social interactions networks and mental health.
 
 # Interests to show in About widget
 interests:
@@ -26,7 +26,7 @@ interests:
 - Social Interaction Dynamics
 - Psychological Well-Being
 # - Longitudinal Social Network Analysis
-- Intensive Longitudinal Data Modeling
+- Measurement and Modeling of Intensive Longitudinal Data 
 
 # Education to show in About widget
 education:
