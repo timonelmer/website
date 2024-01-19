@@ -11,23 +11,23 @@ authors:
 - Jennifer Hofmann
 - Timon Elmer
 tags:
-- '10'
-- '1037'
-- calling
-- chology
-- department of psy-
-- doi
-- dx
-- fabian gander and willibald
-- http
-- institute of
-- job satisfaction
 - org
-- role theory
-- role-fit
+- job satisfaction
 - ruch
+- calling
+- '10'
+- doi
+- '1037'
+- dx
+- http
 - supp
 - supplemental materials
+- chology
+- department of psy-
+- fabian gander and willibald
+- institute of
+- role theory
+- role-fit
 - team roles
 - tps0000165
 - tracey platt
@@ -52,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-03T20:47:22.396281Z'
+publishDate: '2024-01-19T08:14:28.779389Z'
 publication_types:
 - '2'
 abstract: Successful teamwork is an important factor for positive outcomes at the
@@ -61,7 +61,7 @@ abstract: Successful teamwork is an important factor for positive outcomes at th
   all of the necessary skills being present in a team. Recently a new model of team
   roles developed from a positive psychological perspective has been suggested comprising
   of 7 informal team roles. The present study examines the relevance of role-fit between
-  roles displayed in the current team and roles displayed in an ideal team on a person's
+  roles displayed in the current team and roles displayed in an ideal team on a person’s
   job satisfaction and calling. For this purpose, a sample of N = 342 employed participants
   who took part in an online survey were analyzed. Results show that most current
   team roles contribute to job satisfaction and calling, whereas only few relationships

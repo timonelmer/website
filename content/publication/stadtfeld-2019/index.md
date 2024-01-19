@@ -11,10 +11,10 @@ authors:
 - Zsófia Boda
 - Isabel J Raabe
 tags:
+- social networks
 - computational social science
 - network dynamics
 - network science
-- social networks
 - sociology of education
 categories: []
 date: '2019-01-01'
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-03T20:47:23.330662Z'
+publishDate: '2024-01-19T08:14:28.825513Z'
 publication_types:
 - '2'
 abstract: "Academic success of students has been explained with a variety of individual\
@@ -65,5 +65,5 @@ publication: '*Proceedings of the National Academy of Sciences of the United Sta
 doi: 10.1073/pnas.1811388115
 links:
 - name: URL
-  url: http://www.ncbi.nlm.nih.gov/pubmed/30584099 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6338824
+  url: http://www.ncbi.nlm.nih.gov/pubmed/30584099
 ---

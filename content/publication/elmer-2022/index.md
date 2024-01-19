@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-29T14:10:54.627673Z'
+publishDate: '2024-01-19T08:14:28.909533Z'
 publication_types:
 - '4'
 abstract: 'The Swiss StudentLife study was conducted between 2016 and 2020 (Vörös

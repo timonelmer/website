@@ -17,19 +17,19 @@ authors:
 - Matthias Jaeger
 - N Rüsch
 tags:
-- Attitudes
-- Mental illness
 - Psychometrics
-- Recovery
-- Social distance
-- Stigma
+- Attitudes
+- psychometrics
 - Therapeutic relationship
 - attitudes
-- mental illness
-- psychometrics
+- Mental illness
 - recovery
+- mental illness
+- Recovery
+- Stigma
 - social distance
 - stigma
+- Social distance
 - therapeutic relationship
 categories: []
 date: '2021-01-01'
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-03T20:47:25.121163Z'
+publishDate: '2024-01-19T08:14:28.836770Z'
 publication_types:
 - '2'
 abstract: ''

@@ -10,15 +10,15 @@ authors:
 - Timon Elmer
 - Christoph Stadtfeld
 tags:
-- Network models
-- actor-
-- actor-oriented models
-- group interactions
-- network models
-- relational events
 - social interactions
 - social sensors
+- actor-oriented models
 - statistical models
+- network models
+- actor-
+- group interactions
+- relational events
+- Network models
 categories: []
 date: '2020-01-01'
 lastmod: 2022-01-03T21:47:24+01:00
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-03T20:47:23.794676Z'
+publishDate: '2024-01-19T08:14:28.801182Z'
 publication_types:
 - '2'
 abstract: Face-to-face interactions in social groups are a central aspect of human

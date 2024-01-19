@@ -13,11 +13,11 @@ authors:
 - Piet Bracke
 - Liesbet Goubert
 tags:
-- Social networks
 - Adolescents
+- Social networks
 - Emotional distress
-- Friendship quality
 - Chronic pain
+- Friendship quality
 categories: []
 date: '2022-04-01'
 lastmod: 2022-11-29T15:10:55+01:00
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-29T14:10:55.249423Z'
+publishDate: '2024-01-19T08:14:28.889655Z'
 publication_types:
 - '2'
 abstract: Adolescents with chronic pain (ACP) often experience impairments in their

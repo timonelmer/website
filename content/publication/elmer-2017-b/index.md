@@ -18,10 +18,10 @@ authors:
 - Matthias Jaeger
 tags:
 - Coercion
-- Ethics
-- Health communication
-- Health personnel
 - Inpatients
+- Health communication
+- Ethics
+- Health personnel
 categories: []
 date: '2017-01-01'
 lastmod: 2022-01-03T21:47:22+01:00
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-03T20:47:21.926308Z'
+publishDate: '2024-01-19T08:14:28.863026Z'
 publication_types:
 - '2'
 abstract: ''

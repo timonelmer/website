@@ -14,8 +14,8 @@ authors:
 - Isabel J. Raabe
 - Christoph Stadtfeld
 tags:
-- Dynamic networks
 - Education
+- Dynamic networks
 - Multidimensional networks
 - Network data collection
 categories: []
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-03T20:47:25.395861Z'
+publishDate: '2024-01-19T08:14:28.900530Z'
 publication_types:
 - '2'
 abstract: 'The Swiss StudentLife Study (SSL Study) is a longitudinal social network

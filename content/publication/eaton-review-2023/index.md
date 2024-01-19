@@ -1,17 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Depressive symptoms are associated with social isolation in face-to-face interaction
-  networks
+title: A review of approaches and models in psychopathology conceptualization research
 subtitle: ''
 summary: ''
 authors:
+- Nicholas R. Eaton
+- Laura F. Bringmann
 - Timon Elmer
-- Christoph Stadtfeld
+- Eiko I. Fried
+- Miriam K. Forbes 
+- Ashley L. Greene
+- Robert F. Krueger
+- Roman Kotov
+- Patrick D. McGorry
+- Cristina Mei 
+- Monika A. Waszczuk
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2022-01-03T21:47:25+01:00
+date: '2023-08-08'
+lastmod: 2022-01-03T21:47:22+01:00
 featured: false
 draft: false
 
@@ -29,10 +37,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-19T08:14:28.855237Z'
+publishDate: '2024-01-19T08:14:28.749847Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Scientific Reports*'
-doi: 10.1038/s41598-020-58297-9
+publication: '*Nature Reviews Psychology*'
+doi: 10.1038/s44159-023-00218-4
 ---

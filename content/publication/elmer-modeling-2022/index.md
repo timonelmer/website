@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-29T14:10:55.769813Z'
+publishDate: '2024-01-19T08:14:28.928266Z'
 publication_types:
 - '2'
 abstract: More and more data are being collected using combined active (e.g., surveys)

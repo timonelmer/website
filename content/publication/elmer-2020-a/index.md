@@ -8,7 +8,7 @@ authors:
 - Timon Elmer
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2019-10-01'
 lastmod: 2022-01-03T21:47:24+01:00
 featured: false
 draft: false
@@ -27,10 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-03T20:47:24.329888Z'
+publishDate: '2024-01-19T08:14:28.947145Z'
 publication_types:
 - '7'
 abstract: ''
-publication: '*ETH Zurich*'
+publication: ''
 doi: 10.3929/ETHZ-B-000387447
 ---
