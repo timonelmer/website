@@ -6,7 +6,7 @@ tags: [Social Interaction Dynamics]
 date: "2023-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link:  "https://timonelmer.netlify.app/project/ambizione/blank.html"
+external_link:  "https://data.snf.ch/grants/grant/208742"
 
 image:
   caption: ""
