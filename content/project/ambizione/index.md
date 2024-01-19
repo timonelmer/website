@@ -16,7 +16,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://vimeo.com/680800232"
+url_video: "https://data.snf.ch/grants/grant/208742"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
