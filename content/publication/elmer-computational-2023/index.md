@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Computational social science is growing up: why puberty consists of embracing measurement validation, theory development, and open science practices
+title: 'Computational social science is growing up: why puberty consists of embracing measurement validation, theory development, and open science practices'
 subtitle: ''
 summary: ''
 authors:

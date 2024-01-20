@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Studying Daily Social Interaction Quantity and Quality in Relation to Depression Change: A Multi-Phase Experience Sampling Study
+title: 'Studying Daily Social Interaction Quantity and Quality in Relation to Depression Change: A Multi-Phase Experience Sampling Study'
 subtitle: ''
 summary: ''
 authors:

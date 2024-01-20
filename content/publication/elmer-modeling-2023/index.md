@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modeling categorical time-to-event data: The example of social interaction dynamics captured with event-contingent experience sampling methods
+title: 'Modeling categorical time-to-event data: The example of social interaction dynamics captured with event-contingent experience sampling methods'
 subtitle: ''
 summary: ''
 authors:
