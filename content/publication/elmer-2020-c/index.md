@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-19T08:14:28.918413Z'
+publishDate: '2024-07-09T16:12:36.842540Z'
 publication_types:
 - '2'
 abstract: This study investigates students' social networks and mental health before

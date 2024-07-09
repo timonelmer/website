@@ -1,6 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+# code to update the publications: academic import --bibtex my_publications_jan2024.bib
 widget: pages
 
 # This file represents a page section.

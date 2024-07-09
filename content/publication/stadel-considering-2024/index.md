@@ -1,17 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The co-evolution of emotional well-being with weak and strong friendship ties
+title: 'Considering the ‘With Whom’: Differences Between Event- and Signal-Contingent
+  ESM Data of Person-Specific Social Interactions'
 subtitle: ''
 summary: ''
 authors:
+- Marie Stadel
+- Marijtje A. J. Van Duijn
+- Aidan G. C. Wright
+- Laura F. Bringmann
 - Timon Elmer
-- Z. Boda
-- Christoph Stadtfeld
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2022-01-03T21:47:22+01:00
+date: '2024-04-01'
+lastmod: 2024-07-09T18:11:35+02:00
 featured: false
 draft: false
 
@@ -29,10 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-07-09T16:12:35.278830Z'
+publishDate: '2024-07-09T16:12:37.788245Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Network Science*'
-doi: 10.1017/nws.2017.20
+publication: '*Multivariate Behavioral Research*'
+doi: 10.1080/00273171.2024.2335405
+links:
+- name: URL
+  url: https://www.tandfonline.com/doi/full/10.1080/00273171.2024.2335405
 ---

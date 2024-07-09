@@ -2,6 +2,8 @@
 title: Publications
 cms_exclude: true
 
+# code to update reference list: academic import --bibtex my_publications_2024_07.bib     
+
 # View.
 #   1 = List
 #   2 = Compact
